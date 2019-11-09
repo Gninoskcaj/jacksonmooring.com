@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blog</title>
+    <description></description>
+    <link>https://jacksonmooring.com</link>
+    <atom:link href="https://jacksonmooring.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>How to Set Up a Custom Domain Email</title>
+        <description>A Step By Step guide To Setting up a Custom Domain Email for Free</description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00 -0600</pubDate>
+        <link>https://jacksonmooring.com/posts/free-custom-domain-email</link>
+        <guid isPermaLink="true">https://jacksonmooring.com/posts/free-custom-domain-email</guid>
+      </item>
+    
+      <item>
+        <title>Introducing chalk</title>
+        <description>Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll.</description>
+        <pubDate>Sat, 23 Dec 2017 00:00:00 -0600</pubDate>
+        <link>https://jacksonmooring.com/posts/introducing-chalk</link>
+        <guid isPermaLink="true">https://jacksonmooring.com/posts/introducing-chalk</guid>
+      </item>
+    
+      <item>
+        <title>How to configure Chalk</title>
+        <description>Learn more about the config file for Chalk and how to set it up properly.</description>
+        <pubDate>Fri, 22 Dec 2017 00:00:00 -0600</pubDate>
+        <link>https://jacksonmooring.com/posts/configuring-chalk</link>
+        <guid isPermaLink="true">https://jacksonmooring.com/posts/configuring-chalk</guid>
+      </item>
+    
+  </channel>
+</rss>
