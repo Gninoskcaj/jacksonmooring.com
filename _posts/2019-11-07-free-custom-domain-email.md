@@ -5,7 +5,7 @@ description: "A Step By Step guide To Setting up a Custom Domain Email for Free"
 tags: [email, gmail]
 ---
 
-In this example I will use <a href="https://www.namesilo.com" target="_blank">NameSilo</a>. Having the cheepest domains on the market I prefer NameSilo.</p>
+In this example I will use <a href="https://www.namesilo.com" target="_blank">NameSilo</a>. Having the cheepest domains on the market I prefer NameSilo.
 <h3>Lets dive in...</h3>
 
 <p><b>What you will need:</b></p>
@@ -49,7 +49,7 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
 <br>
 <br>
 <h1>Step 2: Setup Gmail to send custom domain emails</h1>
-  Go to your gmail.com
+  Go to gmail.com
 <br> <br>
   Sign In to your gmail account
 <br><br>
@@ -65,7 +65,7 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
 <br><br>
   Select <b>Mail</b>
 <br><br>
-  Select <b>Other</b>
+  In the next field select <b>Other</b>
 <br><br>
   Enter the domain name you are using for you email
 <br><br>
@@ -89,7 +89,7 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
 <br><br>
   Enter your gmail username
 <br><br>
-  Paste the app password you copied (e.g. <code>pelu jpms oned atzh</code>)
+  Paste the app password you copied (e.g. <code>qdlw jpms hgsd svzh</code>)
 <br><br>
   Select port <b>365</b>
 <br>
@@ -98,10 +98,8 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
 <br>
 <br>
 <br>
-  You will recieve an email giving you a verification code. Paste that code into the input box. Now Click verify. You are all done! you can now send custom domain emails using gmail! When sending an email click the down arrow in the <b>From:</b> section a select you custom domain email address.
+  You will recieve an email giving you a verification code. Paste that code into the input box. Now Click verify. You are all done! you can now send custom domain emails using gmail! When sending an email click the down arrow in the <b>From:</b> section, then select your custom domain email address.
 </p>
-<p>Got Stuck? Send me an email at <b>me@jacksonmooring.com</b> or ping me on discord <b>Gninoskcaj#7292</b>	</p>
-  
 
-<p><i><b>Fun fact: Most people pay 5 - 10$ a month for G Suite so they can have a custom domain email</b></i></p>
+##### **Got Stuck? Send me an email at ***me@jacksonmooring.com*** or ping me on discord ***Gninoskcaj#7292*****
 

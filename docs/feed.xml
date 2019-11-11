@@ -14,21 +14,5 @@
         <guid isPermaLink="true">https://jacksonmooring.com/posts/free-custom-domain-email</guid>
       </item>
     
-      <item>
-        <title>Introducing chalk</title>
-        <description>Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll.</description>
-        <pubDate>Sat, 23 Dec 2017 00:00:00 -0600</pubDate>
-        <link>https://jacksonmooring.com/posts/introducing-chalk</link>
-        <guid isPermaLink="true">https://jacksonmooring.com/posts/introducing-chalk</guid>
-      </item>
-    
-      <item>
-        <title>How to configure Chalk</title>
-        <description>Learn more about the config file for Chalk and how to set it up properly.</description>
-        <pubDate>Fri, 22 Dec 2017 00:00:00 -0600</pubDate>
-        <link>https://jacksonmooring.com/posts/configuring-chalk</link>
-        <guid isPermaLink="true">https://jacksonmooring.com/posts/configuring-chalk</guid>
-      </item>
-    
   </channel>
 </rss>
