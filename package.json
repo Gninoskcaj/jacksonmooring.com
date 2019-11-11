@@ -2,7 +2,7 @@
   "name": "jacksonmooring.com",
   "scripts": {
     "setup": "bin/setup",
-    "local": "bundle exec jekyll serve --drafts -d ./docs",
+    "local": "sudo jekyll serve --drafts -d ./docs",
     "publish": "sudo jekyll build -d ./docs"
   },
   "dependencies": {
