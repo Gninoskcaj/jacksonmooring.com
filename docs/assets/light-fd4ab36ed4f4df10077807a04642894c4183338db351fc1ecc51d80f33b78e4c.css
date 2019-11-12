@@ -542,6 +542,8 @@ img {
   .footer a {
     text-decoration: none; }
   .footer ul {
+    margin: 0;
+    padding: 0;
     text-align: center; }
     .footer ul p {
       font-size: 13px;
@@ -1199,7 +1201,7 @@ img {
   width: 80px;
   height: 80px;
   margin: auto;
-  bottom: -86%;
+  bottom: -84%;
   border-radius: 10px;
   cursor: pointer; }
 

@@ -5,7 +5,7 @@ description: "Jackson's Blog"
 ---
 
 
-<ul class="article-list" id ="main">
+<ul class="article-list">
   {% for post in paginator.posts %}
     <li class="article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
       <a href="{{ post.url | relative_url }}" title="{{ post.title }}">

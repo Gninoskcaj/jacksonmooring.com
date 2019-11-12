@@ -76,3 +76,4 @@ var scroll = new SmoothScroll('a[href*="#"]', {
 	speedAsDuration: true,
 	easing: 'Linear'
 })
+;
