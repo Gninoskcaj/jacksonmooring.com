@@ -101,5 +101,5 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
   You will recieve an email giving you a verification code. Paste that code into the input box. Now Click verify. You are all done! you can now send custom domain emails using gmail! When sending an email click the down arrow in the <b>From:</b> section, then select your custom domain email address.
 </p>
 
-##### **Got Stuck? Send me an email at ***me@jacksonmooring.com*** or ping me on discord ***Gninoskcaj#7292*****
+##### **Got Stuck? Send me an email at *me@jacksonmooring.com* or ping me on discord *Gninoskcaj#7292***
 
