@@ -9,19 +9,29 @@ function random(height = 300, width = 500, grey = false, blur = false) {
 	}
 	let imgNum, imgURL;
 	let imgArray = [
-		0,
-		1,
 		100,
 		1000,
-		1001,
-		1005,
-		1010,
 		1018,
 		1025,
-		1031,
+		1037,
+		1043,
+		1053,
+		1074,
+		110,
+		112,
+		147,
+		179,
+		190,
+		199,
+		218,
+		265,
+		277,
+		37,
+		404,
 		1041,
 		1044,
-		1060
+		1060,
+		1019
 	]
 
 	imgNum = imgArray[Math.floor(Math.random() * imgArray.length)]
@@ -71,9 +81,4 @@ const header = document.getElementById('title-img');
 header.setAttribute('src', url)
 
 
-var scroll = new SmoothScroll('a[href*="#"]', {
-	speed: 30,
-	speedAsDuration: true,
-	easing: 'Linear'
-})
 ;
