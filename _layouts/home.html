@@ -5,6 +5,7 @@
   <main>
     <div class="grid grid-centered">
       <div class="grid-cell">
+        {% include title.html %}
         {% include navigation.html %}
         {{ content }}
         {% include footer.html %}
@@ -13,5 +14,4 @@
   </main>
   {% include javascripts.html %}
 </body>
-
 </html>
