@@ -9,7 +9,6 @@ url: https://jacksonmooring.com
 # Optional settings
 
 about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
-graphcomment: jacksonmooring-com # Add your GraphComment identifier
 ga_analytics: UA-142496666-1 # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
@@ -39,6 +38,11 @@ social:
   spotify: # Add your Spotify handle
   stackoverflow: # Add your Stack Overflow ID number
   steam: # Add your Steam handle
+comments:
+  theme: github-light
+  label: comments
+  repo: Gninoskcaj/jacksonmooring.com
+  term: pathname
 
 
 # Important settings (change at own risk)

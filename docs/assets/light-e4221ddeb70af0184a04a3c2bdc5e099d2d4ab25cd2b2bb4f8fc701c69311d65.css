@@ -823,6 +823,7 @@ img {
 
 .article-share {
   display: block;
+  text-align: center;
   margin-top: -4px; }
   .article-share a {
     display: inline-block;
