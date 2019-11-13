@@ -7,6 +7,14 @@
     <atom:link href="https://jacksonmooring.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Using GitHub Issues as Blog Comments</title>
+        <description>How I used github issues as blog comments</description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0600</pubDate>
+        <link>https://jacksonmooring.com/posts/github-comments</link>
+        <guid isPermaLink="true">https://jacksonmooring.com/posts/github-comments</guid>
+      </item>
+    
+      <item>
         <title>How to Set Up a Custom Domain Email</title>
         <description>A Step By Step guide To Setting up a Custom Domain Email for Free</description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 -0600</pubDate>

@@ -3,20 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Blog | The high quality, completely customizable and 100% free blog template for Jekyll</title>
-  <meta name="description" content="">
+  <title>Blog | Using GitHub Issues as Blog Comments</title>
+  <meta name="description" content="How I used github issues as blog comments">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title" content="The high quality, completely customizable and 100% free blog template for Jekyll">
+  <meta property="og:title" content="Using GitHub Issues as Blog Comments">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://jacksonmooring.com/about">
-  <meta property="og:description" content="">
+  <meta property="og:url" content="https://jacksonmooring.com/posts/github-comments">
+  <meta property="og:description" content="How I used github issues as blog comments">
   <meta property="og:site_name" content="Blog">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:url" content="https://jacksonmooring.com/about">
-  <meta name="twitter:title" content="The high quality, completely customizable and 100% free blog template for Jekyll">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:url" content="https://jacksonmooring.com/posts/github-comments">
+  <meta name="twitter:title" content="Using GitHub Issues as Blog Comments">
+  <meta name="twitter:description" content="How I used github issues as blog comments">
 
   
     <meta property="og:image" content="https://jacksonmooring.com/assets/og-image-ee46bbc61b334e821e81534b1fd43f3fee6f020ec174b3c2114445695fd48c01.jpg">
@@ -37,6 +37,7 @@
 
   
 </head>
+
 
 <body>
   <main>
@@ -120,19 +121,103 @@
 
 
 
-        <div class="about scrollappear">
-  <img src="/assets/about-2cdb6eff3b793c005b266304d75b24ec83fb83e5ce1133587094c80747cf55af.jpg" alt="About Nielsen Ramon header image" />
-  <h1>About me</h1>
-  <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-      non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
+        <article class="article scrollappear">
+          <header class="article-header">
+            <h1>Using GitHub Issues as Blog Comments</h1>
+            <p>How I used github issues as blog comments</p>
+            <div class="article-list-footer">
+  <span class="article-list-date">
+    November 12, 2019
+  </span>
+  <span class="article-list-divider">-</span>
+  <span class="article-list-minutes">
+    
+    
+      1 minute read
+    
+  </span>
+  <span class="article-list-divider">-</span>
+  <div class="article-list-tags">
+    
+      
+      <a href="/tag/blog-comments" title="See all posts with tag 'Blog-Comments'">Blog-Comments</a>
+    
+      
+      <a href="/tag/github" title="See all posts with tag 'GitHub'">GitHub</a>
+    
+  </div>
 </div>
+          </header>
 
+          <div class="article-content">
+            <h2 id="blog-comments">Blog Comments?</h2>
+
+<p>A big question when it comes to static site genorators is blog comments. Many peoples go to comment plug-in is <a href="https://disqus.com">Disqus</a>. That is how I started out.</p>
+
+<p>Enter <a href="https://utteranc.es">Utterances</a> - A lightweight comments widget built on GitHub issues.</p>
+
+<h2 id="why-you-should-use-utterances">Why you should use Utterances:</h2>
+
+<h4 id="from-utterances">From <a href="https://utteranc.es">utteranc.es</a>:</h4>
+
+<p>Open source. 
+No tracking, no ads, always free.
+No lock-in. All data stored in GitHub issues. 
+Styled with Primer, the css toolkit that powers GitHub. 
+Dark theme. 
+Lightweight. Vanilla TypeScript. No font downloads, JavaScript frameworks or polyfills for evergreen browsers.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>When Utterances loads, the GitHub issue search API is used to find the issue associated with the page based on url, pathname or title. If we cannot find an issue that matches the page, no problem, utterances-bot will automatically create an issue the first time someone comments.
+To comment, users must authorize the utterances app to post on their behalf using the GitHub OAuth flow. Alternatively, users can comment on the GitHub issue directly.</p>
+
+<h2 id="usage">Usage</h2>
+
+<p>Simply paste this code where you want your comments to appear. Then just let the magic happen!</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;script 
+        </span><span class="na">src=</span><span class="s">"https://utteranc.es/client.js"</span>
+        <span class="na">repo=</span><span class="s">"[ENTER REPO HERE]"</span>
+        <span class="na">issue-term=</span><span class="s">"pathname"</span>
+        <span class="na">theme=</span><span class="s">"[YOUR THEME HERE]"</span>
+        <span class="na">crossorigin=</span><span class="s">"anonymous"</span>
+        <span class="na">async</span><span class="nt">&gt;</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<p>Simple as that.</p>
+
+          </div>
+          <br>
+          <hr>
+          <br>
+
+          <div class="article-share">
+            
+            
+            <a href="https://twitter.com/home?status=Using+GitHub+Issues+as+Blog+Comments%20-%0A%20%20%20%20%20%20%20%20%20%20%20%20https://jacksonmooring.com/posts/github-comments%0A%20%20%20%20%20%20%20%20%20%20%20%20by%20@Gninoskcaj" title="Share on Twitter"
+              rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512">
+                <path
+                  d="M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6 -18.7 11.1-39.4 19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0 7.6 0.8 15 2.5 22.1 -80.5-4-151.9-42.6-199.6-101.3 -8.3 14.3-13.1 31-13.1 48.7 0 33.6 17.2 63.3 43.2 80.7C67 210.7 52 206.3 39 199c0 0.4 0 0.8 0 1.2 0 47 33.4 86.1 77.7 95 -8.1 2.2-16.7 3.4-25.5 3.4 -6.2 0-12.3-0.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3 -33.1 26-74.9 41.5-120.3 41.5 -7.8 0-15.5-0.5-23.1-1.4C62.8 432 113.7 448 168.3 448 346.6 448 444 300.3 444 172.2c0-4.2-0.1-8.4-0.3-12.5C462.6 146 479 129 492 109.5z" />
+              </svg>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://jacksonmooring.com/posts/github-comments"
+              title="Share on Facebook" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512">
+                <path
+                  d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64H288z" />
+              </svg>
+            </a>
+          </div>
+          <br>
+          <hr>
+          <script src="https://utteranc.es/client.js" repo="Gninoskcaj/jacksonmooring.com"
+            issue-term="pathname" label="comments" theme="github-light"
+            crossorigin="anonymous" async>
+          </script>
+        </article>
         <footer class="footer scrollappear">
 
 	<ul class="footer-social">

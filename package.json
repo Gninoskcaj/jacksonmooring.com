@@ -2,8 +2,8 @@
   "name": "jacksonmooring.com",
   "scripts": {
     "setup": "bin/setup",
-    "local": "sudo jekyll serve --drafts -d ./docs",
-    "publish": "sudo jekyll build -d ./docs"
+    "dev": "sudo jekyll serve --drafts -d ./docs",
+    "build": "sudo jekyll build -d ./docs"
   },
   "dependencies": {
     "jquery": "^3.2.1",
