@@ -12,11 +12,11 @@ sections:
   label: My tags
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: files
+public_path: http://jacksonmooring.com/.netlify/large-media
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":filename:"
+use_front_matter_path: 
+file_template: ":month:-:day:-:year:--file-mm-dd-yy--:filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
