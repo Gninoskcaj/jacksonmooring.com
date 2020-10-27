@@ -1,7 +1,7 @@
 # Mandatory settings
 
-blog_theme: light # Or use dark
-name: Blog
+blog_theme: dark # Or use dark
+name: Jackson's Blog
 paginate: 25
 url: https://jacksonmooring.com
 
@@ -14,15 +14,15 @@ local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
 scrollappear_enabled: true # Change to false to disable
 tag_nav_enabled: false # Change to true if you wish to show an additional 'tag-list' navigation below the header
-theme_toggle: false # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
+theme_toggle: true # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
 social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
-  github: Gninoskcaj # Add your GitHub handle
+  github:  # Add your GitHub handle
   linkedin: # Add your LinkedIn handle
-  twitter: Gninoskcaj # Add your Twitter handle
-  email: jackson.mooring@gmail.com # Add your Email address
+  twitter: # Add your Twitter handle
+  email:  # Add your Email address
   bitcoin: # Add your Bitcoin link or address
   ethereum: # Add your Ethereum link or address
   gitlab: # Add your GitLab handle
@@ -38,11 +38,6 @@ social:
   spotify: # Add your Spotify handle
   stackoverflow: # Add your Stack Overflow ID number
   steam: # Add your Steam handle
-comments:
-  theme: github-light
-  label: comments
-  repo: Gninoskcaj/jacksonmooring.com
-  term: pathname
 
 
 # Important settings (change at own risk)
