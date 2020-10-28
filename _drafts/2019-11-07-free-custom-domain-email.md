@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "How to Set Up a Custom Domain Email"
-description: "A Step By Step guide To Setting up a Custom Domain Email for Free"
-tags: [email, gmail]
----
+title: How to Set Up a Custom Domain Email
+description: A Step By Step guide To Setting up a Custom Domain Email for Free
+tags:
+- email
+- gmail
 
+---
 In this example I will use <a href="https://www.namesilo.com" target="_blank">NameSilo</a>. Having the cheepest domains on the market I prefer NameSilo.
 <h3>Lets dive in...</h3>
 
@@ -102,4 +104,3 @@ In this example I will use <a href="https://www.namesilo.com" target="_blank">Na
 </p>
 
 ##### **Got Stuck? Send me an email at *me@jacksonmooring.com* or ping me on discord *Gninoskcaj#7292***
-

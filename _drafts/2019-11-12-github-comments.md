@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Using GitHub Issues as Blog Comments"
-description: "How I used github issues as blog comments"
-tags: [blog-comments, github]
----
+title: Using GitHub Issues as Blog Comments
+description: How I used github issues as blog comments
+tags:
+- blog-comments
+- github
 
+---
 ## Blog Comments?
 
 A big question when it comes to static site genorators is blog comments. Many peoples go to comment plug-in is [Disqus](https://disqus.com). That is how I started out.
