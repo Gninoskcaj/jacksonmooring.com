@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Tale of Two Cities - Book Report
-description: A gut-wrenching story of sacrifice, set in the French Revolution.
+description: A gut-wrenching story of self-sacrifice, set in the French Revolution.
 tags:
 - french-revolution
 - historical-fiction
@@ -27,9 +27,17 @@ and:
 
 > “For you, and for any dear to you, I would do anything. If my career were of that better kind that there was any opportunity or capacity of sacrifice in it, I would embrace any sacrifice for you and for those dear to you. Try to hold me in your mind, at some quiet times, as ardent and sincere in this one thing. The time will come, the time will not be long in coming, when new ties will be formed about you--ties that will bind you yet more tenderly and strongly to the home you so adorn--the dearest ties that will ever grace and gladden you. O Miss Manette, when the little picture of a happy father's face looks up in yours, when you see your own bright beauty springing up anew at your feet, think now and then that there is a man who would give his life, to keep a life you love beside you!”
 
-The true tragedy of the story is Sydney Carton. 
+The true tragedy of the story is in Sydney Carton. He thinks he is a piece of trash, but he isn't. 
 
-// --- Spoiler ---  
+> _”It is too late for that. I shall never be better than I am. I shall sink lower, and be worse.”_
+
+Carton is  a brilliant but depressed and cynical drunkard. He is constantly referring to what he calls his "bad luck".  He is full of loathes himself because of what he sees as a wasted life.
+
+### ⚠ **Spoiler Alert** ⚠
+
+***
+
+  
 // A brief summary of how Darnay got to Paris
 
 // Ending
