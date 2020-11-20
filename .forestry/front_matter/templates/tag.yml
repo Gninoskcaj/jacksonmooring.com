@@ -1,4 +1,14 @@
 ---
 label: Tag
 hide_body: true
-fields: []
+fields:
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
