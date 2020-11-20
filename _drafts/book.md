@@ -33,7 +33,7 @@ Carton is  a brilliant but depressed and cynical drunkard. He is constantly refe
 
 ### Summary
 
-This book confirms what I have been told, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, but, oh boy, the punch line a hammer! After finishing the book I was not sure whether to laugh or cry, so I re-read it (the ending that is)!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that it is a must-read if enjoy historical-fiction.
+This book confirms what I have been told, mainly, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, but, oh boy, the punch line a hammer! After finishing the book I was not sure whether to laugh or cry, so I re-read it (the ending that is)!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that it is a must-read if enjoy historical-fiction.
 
 > "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!" - Charles Dickens, A Tale of  Two Cities
 
