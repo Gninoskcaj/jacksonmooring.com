@@ -43,7 +43,6 @@ PS: If you are sure you will _never_ touch the book, take a look at the ending. 
 
 ***
 
-  
 Charles Darnay, Lucie's husband, is arrested and put in prison and sentenced to death. Just hours before the sentence is to be carried out Sydney Carton changes places with him. And is killed in his place. His last unspoken thoughts are prophetic:
 
 > “I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. I see her, an old woman, weeping for me on the anniversary of this day. I see her and her husband, their course done, lying side by side in their last earthly bed, and I know that each was not more honoured and held sacred in the other's soul, than I was in the souls of both...
