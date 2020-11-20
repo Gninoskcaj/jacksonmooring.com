@@ -1,4 +1,0 @@
----
-slug: gmail
-name: Gmail
----
