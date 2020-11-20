@@ -31,23 +31,25 @@ The true tragedy of the story is in Sydney Carton. He thinks he is a piece of tr
 
 > _”It is too late for that. I shall never be better than I am. I shall sink lower, and be worse.”_
 
-Carton is  a brilliant but depressed and cynical drunkard. He is constantly referring to what he calls his "bad luck".  He is full of loathes himself because of what he sees as a wasted life.
+Carton is  a brilliant but depressed and cynical drunkard. He is constantly referring to what he calls his "bad luck".  He loathes himself because of what he sees as a wasted life.
 
 ### ⚠ **Spoiler Alert** ⚠
 
 ***
 
   
-// A brief summary of how Darnay got to Paris
+Charles Darnay, Lucie's husband, is arrested and put in prison and sentenced to death. Just hours before the sentence is to be carried out Sydney Carton changes places with him. And is killed in his place. His last unspoken thoughts are prophetic:
 
-// Ending
+> “I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. I see her, an old woman, weeping for me on the anniversary of this day. I see her and her husband, their course done, lying side by side in their last earthly bed, and I know that each was not more honoured and held sacred in the other's soul, than I was in the souls of both...
+>
+> “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”
 
-// Summary
+The main theme of the book is resurrection, Dr. Manette is "recalled to life". In Carton's last words we see this theme again.
 
-* Themes
-* Style
-* Conclusion
+> “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”
 
-> _"A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!"_
+### Summary
 
-A Tale of Two Cities is full of long wordy sentences, full of long illustrious words.
+This book confirms what I have been told, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, but, oh boy, the punch line a hammer! After finishing the book I was not sure whether to laugh or cry, so I re-read it (the ending that is)!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that it is a must-read if enjoy historical-fiction.
+
+> "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!" - Charles Dickens, A Tale of  Two Cities
