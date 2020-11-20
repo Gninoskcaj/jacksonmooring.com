@@ -13,4 +13,5 @@ fields:
     required: false
   label: Name
 pages:
+- _my_tags/french-revolution.md
 - _my_tags/historical-fiction.md
