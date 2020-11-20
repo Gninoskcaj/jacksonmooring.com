@@ -31,6 +31,8 @@ Carton is  a brilliant but depressed and cynical drunkard. He is constantly refe
 
 > _”It is too late for that. I shall never be better than I am. I shall sink lower, and be worse.”_
 
+### Theme
+
 The main theme of the book is resurrection, Dr. Manette is "recalled to life". In Carton's last words we see this theme again.
 
 > “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”
