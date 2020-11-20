@@ -31,6 +31,10 @@ Carton is  a brilliant but depressed and cynical drunkard. He is constantly refe
 
 > _”It is too late for that. I shall never be better than I am. I shall sink lower, and be worse.”_
 
+The main theme of the book is resurrection, Dr. Manette is "recalled to life". In Carton's last words we see this theme again.
+
+> “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”
+
 ### Summary
 
 This book confirms what I have been told, mainly, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, Charles Dickens know how to make the punch line hammer! After finishing the book, I found the ending so sad, yet hopeful, I was not sure whether to laugh or cry, so I re-read it!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that, it is a must-read if you enjoy historical-fiction.
@@ -48,9 +52,5 @@ Charles Darnay, Lucie's husband, is arrested and put in prison and sentenced to 
 > “I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. I see her, an old woman, weeping for me on the anniversary of this day. I see her and her husband, their course done, lying side by side in their last earthly bed, and I know that each was not more honoured and held sacred in the other's soul, than I was in the souls of both...
 >
 > “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”
-
-The main theme of the book is resurrection, Dr. Manette is "recalled to life". In Carton's last words we see this theme again.
-
-> “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”
 
 ### **-- Spoiler End --**
