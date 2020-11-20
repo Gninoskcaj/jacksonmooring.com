@@ -13,7 +13,7 @@ tags:
 
 > “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.”
 
-Bookended by some of the most recognizable quotes in the english language,  _A Tale of Two Cities_, is a work of art, crafted by an amazing writer.  The tale is centered around Dr. Alexandre Manette and his daughter Lucie.  At the time the story starts Dr. Manette has just been released from an 18-year long prison sentence. Later in the story the reader learns that he was put in prison to keep him quiet about a rape and murder he witnessed.
+Bookended by some of the most recognizable quotes in the english language,  _A Tale of Two Cities_, is a work of art, crafted by an amazing writer.  The tale is centered around Dr. Alexandre Manette and his daughter Lucie.  At the time the story starts Dr. Manette has just been released from an 18-year long prison sentence. Later in the story the reader learns that he was put in prison to suppress proof crime.
 
 At the beginning of the book Dr. Manette is in a sore state of mind, but under the care of his loving daughter, Lucie, he slowly recovers his wits.
 
@@ -33,6 +33,12 @@ The true tragedy of the story is in Sydney Carton. He thinks he is a piece of tr
 
 Carton is  a brilliant but depressed and cynical drunkard. He is constantly referring to what he calls his "bad luck".  He loathes himself because of what he sees as a wasted life.
 
+### Summary
+
+This book confirms what I have been told, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, but, oh boy, the punch line a hammer! After finishing the book I was not sure whether to laugh or cry, so I re-read it (the ending that is)!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that it is a must-read if enjoy historical-fiction.
+
+> "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!" - Charles Dickens, A Tale of  Two Cities
+
 ### ⚠ **Spoiler Alert** ⚠
 
 ***
@@ -48,8 +54,4 @@ The main theme of the book is resurrection, Dr. Manette is "recalled to life". I
 
 > “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”
 
-### Summary
-
-This book confirms what I have been told, Charles Dickens was a great writer.  Although the build-up is a little lengthy, and it is hard to connect with any one the the main characters, but, oh boy, the punch line a hammer! After finishing the book I was not sure whether to laugh or cry, so I re-read it (the ending that is)!  _A Tale of Two Cities_ does have some long sentences, and is bit wordy, but for all that it is a must-read if enjoy historical-fiction.
-
-> "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!" - Charles Dickens, A Tale of  Two Cities
+### **-- Spoiler End --**
