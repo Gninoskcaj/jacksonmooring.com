@@ -17,7 +17,7 @@ Bookended by some of the most recognizable quotes in the english language,  _A T
 
 At the beginning of the book Dr. Manette is in a sore state of mind, but under the care of his loving daughter, Lucie, he slowly recovered his wits.
 
-In the second part of the book, Charles Darnay, an émigré from france is being tried by the English Government, as a spy. The two main witnesses against him are British spies, John Barsad and Roger Cly, who claim that Darnay gave information about British troops in America to the French. When Barsad says he could recognize Darnay anywhere, Mr. Stryver (Darnay's Barristar), points out his collegue Sydney Carton (who is a look alike of Darnay) and Barsad admits that they look almost identical. With Barsad's eye witness account discredited, Darnay is released.
+In the second part of the book, Charles Darnay, an émigré from france is being tried by the English Government, as a spy. The two main witnesses against him are British spies, John Barsad and Roger Cly, who claim that Darnay gave information about British troops in America to the French. When Barsad says he could recognize Darnay anywhere, Mr. Stryver (Darnay's Barristar), points out the strong resemblance  between him and his collegue Sydney Carton and Barsad admits that they look almost identical. With Barsad's eye witness account discredited, Darnay is released.
 
 As the story progresses Darnay asks permission of Dr. Manette to marry Lucie, but Sydney Carton also confesses his love to Lucie as well, knowing she will not love him in return.  Carton said:
 
