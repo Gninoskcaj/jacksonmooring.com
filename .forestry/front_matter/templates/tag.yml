@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Name
+pages:
+- _my_tags/historical-fiction.md
