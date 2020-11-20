@@ -15,7 +15,7 @@ tags:
 
 Bookended by some of the most recognizable quotes in the english language,  _A Tale of Two Cities_, is a work of art, crafted by an amazing writer.  The tale is centered around Dr. Alexandre Manette and his daughter Lucie.  At the time the story starts Dr. Manette has just been released from an 18-year long prison sentence. Later in the story the reader learns that he was put in prison to suppress proof crime.
 
-At the beginning of the book Dr. Manette is in a sore state of mind, but under the care of his loving daughter, Lucie, he slowly recovers his wits.
+At the beginning of the book Dr. Manette is in a sore state of mind, but under the care of his loving daughter, Lucie, he slowly recovered his wits.
 
 In the second part of the book, Charles Darnay, an émigré from france is being tried by the English Government, as a spy. The two main witnesses against him are British spies, John Barsad and Roger Cly, who claim that Darnay gave information about British troops in America to the French. When Barsad says he could recognize Darnay anywhere, Mr. Stryver (Darnay's Barristar), points out his collegue Sydney Carton (who is a look alike of Darnay) and Barsad admits that they look almost identical. With Barsad's eye witness account discredited, Darnay is released.
 
