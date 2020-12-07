@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A Tale of Two Cities - Book Report
+title: A Tale of Two Cities - Book Review
 description: A gut-wrenching story of self-sacrifice, set in the French Revolution.
 tags:
 - french-revolution
 - historical-fiction
 - books
-- book-report
+- book-review
 
 ---
 **Rating:** 🌟🌟🌟🌟🌟
