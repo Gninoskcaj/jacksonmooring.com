@@ -1,5 +1,5 @@
 ---
-slug: book-report
-name: Book Report
+slug: book-review
+name: Book Review
 
 ---
