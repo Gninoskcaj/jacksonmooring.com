@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Skunk War - English 1 Lesson 10 Assignment
-description: ''
+description: without the slightest hesitation I pulled my single-action .22 revolver
+  from its holster; I had six shots, numb fingers, and a moonless and foggy night.
+  I started running. The chase had began.
 tags: []
 
 ---
-I was walking back to the house one night after penning up the cow, And I ran right into a skunk coming to our house. I jumped aside so that the spray would miss me, but I was a little too late. The skunk sprayed the side of my jeans, but what he didn't know was that he signed his death warrant.
+I was walking back to the house one night after penning up the cow, And I ran right into a skunk coming to our house. I jumped aside so that the spray would miss me, but I was a little too late. The skunk sprayed the side of my jeans, but what he didn't know was that he had signed his death warrant.
 
 It was a bright winter morning, the air was a little chilly, but the sun had come out and warmed up the earth. About a week had past since I had declared war on skunks after that wicked weasel sprayed me, but that was not on my mind at the moment because I was in the shop feeding the cow. Suddenly, all the chickens around the shop squawked and flew in all directions. Knowing something was wrong, I ran out of the shop. An guess what I saw, A fat skunk running at full speed towards the south fence of our property. I grabbed a heavy metal bar and ran after it. When I felt I was in range, I threw my metal bar at the skunk, and I hit! The skunk stopped running, rolled over two or three times, got back up, and started running again at twice the speed. I threw the bar again and again, but never hit him. The skunk had got away once more!
 
