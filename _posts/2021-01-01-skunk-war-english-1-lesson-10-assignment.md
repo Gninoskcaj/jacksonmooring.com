@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skunk War - English 1 Lesson 10 Assignment
-description: without the slightest hesitation I pulled my single-action .22 revolver
+description: Without the slightest hesitation I pulled my single-action .22 revolver
   from its holster; I had six shots, numb fingers, and a moonless and foggy night.
   I started running. The chase had began.
 tags: []
