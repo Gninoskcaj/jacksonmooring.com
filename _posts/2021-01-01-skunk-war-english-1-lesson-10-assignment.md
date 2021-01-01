@@ -4,7 +4,12 @@ title: Skunk War - English 1 Lesson 10 Assignment
 description: Without the slightest hesitation I pulled my single-action .22 revolver
   from its holster; I had six shots, numb fingers, and a moonless and foggy night.
   I started running. The chase had began.
-tags: []
+tags:
+- Skunks
+- Animals
+- Lesson 10
+- Assignment
+- English 1
 
 ---
 I was walking back to the house one night after penning up the cow, And I ran right into a skunk coming to our house. I jumped aside so that the spray would miss me, but I was a little too late. The skunk sprayed the side of my jeans, but what he didn't know was that he had signed his death warrant.
