@@ -5,11 +5,11 @@ description: Without the slightest hesitation I pulled my single-action .22 revo
   from its holster; I had six shots, numb fingers, and a moonless and foggy night.
   I started running. The chase had began.
 tags:
-- Skunks
-- Animals
-- Lesson 10
-- Assignment
-- English 1
+- skunks
+- animals
+- lesson-10
+- assignment
+- english-1
 
 ---
 It wasn't that long ago, when on a return trip from locking up the cow, as dusk settled into night, I almost tripped over a skunk. I jumped to the side, but it was already to late. That wicked weasel had left his sticky aroma clinging to my jeans. I smelled bad. Very bad. Right then and there I declared war on skunks.
