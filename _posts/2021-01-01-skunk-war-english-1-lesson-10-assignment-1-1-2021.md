@@ -20,6 +20,6 @@ Ever since the last skunk incident, I have always carried a gun when I went out 
 
 I was suddenly awakened to reality, to see a white streak (the trademark symbol of the striped skunk), dart across the path 30 yards in front of me. Without the slightest hesitation, I pulled my single-action .22 revolver from its holster. I had six shots, numb fingers, and a moonless and foggy night. I started running. The chase had begun.
 
-Every time I pulled the trigger, a blinding flash of light, and a hollow-point capsule of  death, shot out that 7" barrel. After three shots, the critter was dead. Three more shots, and I was satisfied.
+Every time I pulled the trigger, a blinding flash of light, and a hollow-point capsule of  death, shot out that 7" barrel. After three shots, the critter was dead.
 
 And so closes one of the many stories that weaves into the greater story of me. We all have stories, we all have lives, that weave together into the greater story of the one who created us. We are living _His_ story.
