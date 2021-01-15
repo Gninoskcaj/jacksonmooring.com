@@ -8,10 +8,6 @@ tags:
 - book-review
 
 ---
-// Points
+**Rating:** 🌟🌟🌟🌟
 
-// Religion 
-
-// History of Rome Specifically Nero
-
-// Lack of Art
+Beric The Briton is a detailed facts based story of the roman invasion of Briton.
